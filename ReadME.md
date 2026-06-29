@@ -1,6 +1,6 @@
 # Isocel ID OCR SDK
 
-The Isocel ID OCR SDK is a powerful Android library designed for real-time identification card detection and data extraction. It supports multiple generations of ID cards and provides a seamless integration for camera-based scanning.
+The Isocel ID OCR SDK is a android library designed for real-time identification card detection and data extraction. It supports multiple generations of ID cards and provides a seamless integration for camera-based scanning.
 
 ## Features
 
@@ -46,7 +46,7 @@ Add the dependency to your app's `build.gradle.kts` file:
 
 ```kotlin
 dependencies {
-   implementation("co.isocel:idocr:<version>") // 1.0.1
+   implementation("co.isocel:idocr:<version>") // 1.0.0
 }
 ```
 
